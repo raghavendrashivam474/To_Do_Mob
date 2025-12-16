@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249413579068",
+    "project_id": "task-master-auth-3b37b",
+    "storage_bucket": "task-master-auth-3b37b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249413579068:android:580d40ff42264f10edae39",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249413579068-vrttms1k6jm2l2lt22l38hu9o8bu96uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0T2MLnruux8Z1bF-8Ibkf-n9A3dfJo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249413579068-vrttms1k6jm2l2lt22l38hu9o8bu96uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
